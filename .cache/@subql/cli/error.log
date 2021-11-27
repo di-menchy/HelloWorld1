@@ -1,0 +1,25 @@
+2021-11-27T14:07:51.193Z /root/SubQl/subqlHelloWorld/node_modules/@polkadot/util/index.js:3
+2021-11-27T14:07:51.193Z import "./detectPackage.js";
+2021-11-27T14:07:51.193Z        ^^^^^^^^^^^^^^^^^^^^
+2021-11-27T14:07:51.193Z SyntaxError: Unexpected string
+2021-11-27T14:07:51.193Z     at Object.<anonymous> (~/SubQl/subqlHelloWorld/node_modules/@subql/common/dist/types/supported/Boolean.js:6:16)
+2021-11-27T14:11:43.453Z /root/SubQl/subqlHelloWorld/node_modules/@polkadot/util/index.js:3
+2021-11-27T14:11:43.453Z import "./detectPackage.js";
+2021-11-27T14:11:43.453Z        ^^^^^^^^^^^^^^^^^^^^
+2021-11-27T14:11:43.453Z SyntaxError: Unexpected string
+2021-11-27T14:11:43.453Z     at Object.<anonymous> (~/SubQl/subqlHelloWorld/node_modules/@subql/common/dist/types/supported/Boolean.js:6:16)
+2021-11-27T14:20:03.529Z /root/SubQl/subqlHelloWorld/node_modules/@polkadot/util/index.js:3
+2021-11-27T14:20:03.529Z import "./detectPackage.js";
+2021-11-27T14:20:03.529Z        ^^^^^^^^^^^^^^^^^^^^
+2021-11-27T14:20:03.529Z SyntaxError: Unexpected string
+2021-11-27T14:20:03.529Z     at Object.<anonymous> (~/SubQl/subqlHelloWorld/node_modules/@subql/common/dist/types/supported/Boolean.js:6:16)
+2021-11-27T14:24:45.357Z /root/SubQl/subqlHelloWorld/node_modules/@polkadot/util/index.js:3
+2021-11-27T14:24:45.357Z import "./detectPackage.js";
+2021-11-27T14:24:45.357Z        ^^^^^^^^^^^^^^^^^^^^
+2021-11-27T14:24:45.357Z SyntaxError: Unexpected string
+2021-11-27T14:24:45.357Z     at Object.<anonymous> (~/SubQl/subqlHelloWorld/node_modules/@subql/common/dist/types/supported/Boolean.js:6:16)
+2021-11-27T14:26:02.369Z /root/SubQl/subqlHelloWorld/node_modules/@polkadot/util/index.js:3
+2021-11-27T14:26:02.369Z import "./detectPackage.js";
+2021-11-27T14:26:02.369Z        ^^^^^^^^^^^^^^^^^^^^
+2021-11-27T14:26:02.369Z SyntaxError: Unexpected string
+2021-11-27T14:26:02.369Z     at Object.<anonymous> (~/SubQl/subqlHelloWorld/node_modules/@subql/common/dist/types/supported/Boolean.js:6:16)

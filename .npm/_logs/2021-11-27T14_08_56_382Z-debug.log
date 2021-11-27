@@ -1,0 +1,34 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'run-script', 'build' ]
+2 info using npm@6.14.4
+3 info using node@v10.19.0
+4 verbose run-script [ 'prebuild', 'build', 'postbuild' ]
+5 info lifecycle subqlHelloWorld@1.0.0~prebuild: subqlHelloWorld@1.0.0
+6 info lifecycle subqlHelloWorld@1.0.0~build: subqlHelloWorld@1.0.0
+7 verbose lifecycle subqlHelloWorld@1.0.0~build: unsafe-perm in lifecycle true
+8 verbose lifecycle subqlHelloWorld@1.0.0~build: PATH: /usr/share/npm/node_modules/npm-lifecycle/node-gyp-bin:/root/SubQl/subqlHelloWorld/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+9 verbose lifecycle subqlHelloWorld@1.0.0~build: CWD: /root/SubQl/subqlHelloWorld
+10 silly lifecycle subqlHelloWorld@1.0.0~build: Args: [ '-c', 'tsc -b' ]
+11 silly lifecycle subqlHelloWorld@1.0.0~build: Returned: code: 1  signal: null
+12 info lifecycle subqlHelloWorld@1.0.0~build: Failed to exec build script
+13 verbose stack Error: subqlHelloWorld@1.0.0 build: `tsc -b`
+13 verbose stack Exit status 1
+13 verbose stack     at EventEmitter.<anonymous> (/usr/share/npm/node_modules/npm-lifecycle/index.js:332:16)
+13 verbose stack     at EventEmitter.emit (events.js:198:13)
+13 verbose stack     at ChildProcess.<anonymous> (/usr/share/npm/node_modules/npm-lifecycle/lib/spawn.js:55:14)
+13 verbose stack     at ChildProcess.emit (events.js:198:13)
+13 verbose stack     at maybeClose (internal/child_process.js:982:16)
+13 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:259:5)
+14 verbose pkgid subqlHelloWorld@1.0.0
+15 verbose cwd /root/SubQl/subqlHelloWorld
+16 verbose Linux 5.4.0-90-generic
+17 verbose argv "/usr/bin/node" "/usr/bin/npm" "run-script" "build"
+18 verbose node v10.19.0
+19 verbose npm  v6.14.4
+20 error code ELIFECYCLE
+21 error errno 1
+22 error subqlHelloWorld@1.0.0 build: `tsc -b`
+22 error Exit status 1
+23 error Failed at the subqlHelloWorld@1.0.0 build script.
+23 error This is probably not a problem with npm. There is likely additional logging output above.
+24 verbose exit [ 1, true ]
